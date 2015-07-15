@@ -73,6 +73,8 @@
     WXYShowModel *model = [[WXYShowModel alloc] init];
     model.upLoadColor = [UIColor blueColor];
     model.downLoadColor = [UIColor greenColor];
+    model.widthNum = 150;
+    model.lengthNum = 100;
     model.frame = CGRectMake(10, 350, [UIScreen mainScreen].bounds.size.width - 20, 200);
     
     // 3. 展示视图
