@@ -35,7 +35,7 @@
     
 # 4. 展示历史数据图表/Display historical data chart
 
-- (void)showAllSpeedWithDownLoadArray:(NSArray *)DownArray upLoadArray:(NSArray *)UpArray;
+    //- (void)showAllSpeedWithDownLoadArray:(NSArray *)DownArray upLoadArray:(NSArray *)UpArray;
 
     // 1. 实例化视图对象/Instance view object
     WXYShowRectView *showView = [[WXYShowRectView alloc] init];
