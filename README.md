@@ -34,12 +34,12 @@
     self.showView.httpUpLoad = number2;
     
 # 4. 展示历史数据图表/Display historical data chart
-/**
- *  上下行速率同时显示在一张表上/上下行速率同时显示在一张表上
- *
- *  @param allDownLoadArray 下行总数组/Downlink total array
- *  @param allUpLoadArray   上行总数组/Uplink total array
- */
+
+上下行速率同时显示在一张表上/上下行速率同时显示在一张表上
+Up and down rate is shown on a table / up / down rate while displaying on a table.
+@param allDownLoadArray 下行总数组/Downlink total array
+@param allUpLoadArray   上行总数组/Uplink total array
+
 - (void)showAllSpeedWithDownLoadArray:(NSArray *)DownArray upLoadArray:(NSArray *)UpArray;
 使用方法：
     // 1. 实例化视图对象/Instance view object
