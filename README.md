@@ -1,6 +1,8 @@
 # WXYShowRect
 快速创建渐变图表，可以展示历史数据，可以时时根据传入值绘画出图表/Quickly create gradient chart, you can display historical data, you can always according to the incoming value of drawing a chart.
 
+
+
 # 1.首先需要要引入两个头文件/First need to introduce two header file
  #import "WXYShowRectView.h"
  
